@@ -11,7 +11,7 @@ Pune, India · [priyanshgaur10@gmail.com](mailto:priyanshgaur10@gmail.com) · [L
 
 ## Projects
 
-**[SafetyLens AR](https://github.com/Priyanshaur/AR_Mine_Workers_tutorial)** (Smart India Hackathon, Grand Finale)
+**[SafetyLens AR](https://github.com/Priyanshaur/AR_Mine_Workers_tutorial)** (Smart India Hackathon)
 An offline AR safety-training app for mine workers, in English, Hindi and Santali. Completion certificates are HMAC-signed and can be verified by QR code.
 
 **[FraudSight](https://github.com/Priyanshaur/fraudsight)**
