@@ -7,7 +7,7 @@ Pune, India · [priyanshgaur10@gmail.com](mailto:priyanshgaur10@gmail.com) · [L
 ## Papers
 
 - **Krishi Mitra: An AI-Powered Companion Platform for Smart Farming**, IEEE INSECT 2026 (co-author). [DOI](https://doi.org/10.1109/INSECT68872.2026.11663698)
-- **- **PCOD Prediction Using Predictive Modeling**, accepted at RCAAI 2025 (4th International Conference on Robotics, Control, Automation and AI), Manipal Institute of Technology, MAHE (co-author). ...
+- **PCOD Prediction Using Predictive Modeling, accepted at RCAAI 2025 (4th International Conference on Robotics, Control, Automation and AI), Manipal Institute of Technology, MAHE (co-author). An ensemble of CatBoost, XGBoost and LightGBM, with SHAP for feature selection, SMOTE for class balance and Optuna for tuning. It reached 99.56% accuracy on 1,500+ patient records. Code
 ## Projects
 
 **[SafetyLens AR](https://github.com/Priyanshaur/AR_Mine_Workers_tutorial)** (Smart India Hackathon)
